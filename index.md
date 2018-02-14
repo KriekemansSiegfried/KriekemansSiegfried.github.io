@@ -1,6 +1,8 @@
 # Ons team 
 ### Gilles De Borger 
-*insert picture here* 
+
+<img src="https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/images/gilles.jpg" width="200">
+
 ### Siegfried Kriekemans 
 *insert picture here* 
 ### Zhong Xi Lu 
