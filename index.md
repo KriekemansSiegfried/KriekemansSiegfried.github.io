@@ -12,5 +12,5 @@ Onze code bevindt zich in deze github repository:
 
 Het rapport van de 1e opdracht:
 
-[https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/assignment1/report.pdf](Opdracht_1)
+[Opdracht_1](https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/assignment1/report.pdf)
 
