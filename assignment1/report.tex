@@ -24,13 +24,14 @@
 \newpage
 \section{Assignment}
 \begin{center}
-	\textit{Investigate the influence of R0 on the attack rate.}
+	\textit{Onderzoek het effect van verschillende R0 waarden op de attack rate.}
 \end{center}
 
 \section{Solution}
-Om het verband te bepalen tussen de R0 en de attack rate is er 10 maal een simulatie gedaan die allen 10 dagen draait met verschillende waardes voor R0. Hiervoor zijn de waardes $R0 \in \{0,1,2,3,4,5,6,7,8,9\}$ genomen.
+Om het verband te bepalen tussen de R0 en de attack rate is er 21 maal een simulatie uitgevoerd die telkens 50 dagen draait met verschillende waardes voor R0. De gekozen waardes voor R0 zijn 
+$$\{0, 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36, 39, 42, 45, 48, 51, 54, 57, 60 \} $$
 
-Met behulp van de \texttt{pystride} worden de 10 verschillende forks gesimuleerd en de resultaten zijn vervolgens te vinden in de \texttt{simulations} folder in de verschillende \texttt{summary.csv} bestanden. 
+Met behulp van de \texttt{pystride} worden de 21 verschillende forks gesimuleerd en de resultaten zijn vervolgens te vinden in de \texttt{simulations} folder in de verschillende \texttt{summary.csv} bestanden. 
 
 Hieronder zal er een overzicht gegeven worden van de verschillende attack rates bij de desbetreffende R0-waarde.
 
@@ -39,26 +40,39 @@ Hieronder zal er een overzicht gegeven worden van de verschillende attack rates 
 	\begin{tabular}{ | l | r | }
 		\hline			
 		\textbf{R0} & \textbf{Attack Rate}  \\ \hline
-		0 & 0.002  \\
-		1 & 0.00212  \\
-		2 & 0.00222167  \\
-		3 & 0.00233833  \\
-		4 & 0.00242  \\
-		5 & 0.00255333  \\
-		6 & 0.002655  \\
-		7 & 0.00273  \\
-		8 & 0.002865  \\
-		9 & 0.00294  \\
+0 & 0.002 \\
+3 & 0.003015 \\
+6 & 0.00483833 \\
+9 & 0.00896 \\
+12 & 0.01539 \\
+15 & 0.0274583 \\
+18 & 0.04412 \\
+21 & 0.0657283 \\
+24 & 0.0905667 \\
+27 & 0.115945 \\
+30 & 0.138522 \\
+33 & 0.15693 \\
+36 & 0.169693 \\
+39 & 0.179667 \\
+42 & 0.185718 \\
+45 & 0.190217 \\
+48 & 0.193123 \\
+51 & 0.19524 \\
+54 & 0.196977 \\
+57 & 0.19795 \\
+60 & 0.198903 \\
 		\hline  
 	\end{tabular}
 	\caption{Results of the simulation}
 \end{table}
 
-Als de bovenstaande waardes worden weergegeven in een grafiek, lijkt het erop dat er in dit geval een positief lineair verband bestaat tussen de R0 en de attack rate.
+\newpage
+ 
+Wanneer de bovenstaande waardes worden weergegeven in een grafiek vormt deze een sigmo\"{i}dale curve; er is een geleidelijk snellere stijging met afzwakking bij hoge waarden.
 
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=0.5\textwidth]{r0}
+	\includegraphics[width=0.5\textwidth]{r0_2}
 	\caption{Results of the simulation in a graph}
 \end{figure}
 
