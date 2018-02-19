@@ -1,6 +1,8 @@
 # Ons team
 
-| Gilles De Borger (GillesDeBorger)  | Siegfried Kriekemans (KriekemansSiegfried) | Zhong Xi Lu (ZhongXiLu) | Thomas Van Bogaert (T7025)  | Johannes Akkermans (joostatsooj) |
+| Gilles De Borger  | Siegfried Kriekemans | Zhong Xi Lu | Thomas Van Bogaert | Johannes Akkermans |
+| ----------------- | -------------------- | ----------- | ------------------ | ------------------ |
+| GillesDeBorger | KriekemansSiegfried  | ZhongXiLu | T7025 | joostatsooj |
 | ---------------------------------- | ------------------------------------------ | ----------------------- | --------------------------- | -------------------------------- |
 | <img src="https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/images/gilles.jpg?raw=true" width="200" height="200">  | <img src="https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/images/siegfried.jpg?raw=true" width="200"  height="200">  | <img src="https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/images/zhongxi.jpg?raw=true" width="200" height="200"> | <img src="https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/images/thomas.jpg?raw=true" width="200"  height="200">  | <img src="https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/images/johannes.jpg?raw=true" width="200"  height="200">  |
 
