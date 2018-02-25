@@ -9,10 +9,13 @@
 # Github repo
 
 Onze code bevindt zich in deze github repository:
+
 [https://github.com/GillesDeBorger/cuddly-broccoli](https://github.com/GillesDeBorger/cuddly-broccoli)
 
 Het rapport van de 1e opdracht:
+
 [Opdracht_1](https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/assignment1/report.pdf)
 
 Het rapport van de 2e opdracht:
+
 [Opdracht_2](https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/assignment2/report.pdf)
