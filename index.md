@@ -12,7 +12,7 @@ Onze code bevindt zich in deze github repository:
 
 [https://github.com/GillesDeBorger/cuddly-broccoli](https://github.com/GillesDeBorger/cuddly-broccoli)
 
-#simulaties
+# simulaties
 
 Het rapport van de 1e opdracht:
 
@@ -22,7 +22,7 @@ Het rapport van de 2e opdracht:
 
 [Opdracht_2](https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/assignment2/report.pdf)
 
-#Travis Ci
+# Travis Ci
 
 [![Build Status](https://travis-ci.com/GillesDeBorger/cuddly-broccoli.svg?token=xPifwK1xxjwRzkW1ZfyB&branch=master)](https://travis-ci.com/GillesDeBorger/cuddly-broccoli)
 
