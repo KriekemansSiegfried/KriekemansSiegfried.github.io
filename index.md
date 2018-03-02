@@ -6,11 +6,13 @@
 | ---------------------------------- | ------------------------------------------ | ----------------------- | --------------------------- | -------------------------------- |
 | <img src="https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/images/gilles.jpg?raw=true" width="250" height="200">  | <img src="https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/images/siegfried.jpg?raw=true" width="150"  height="200">  | <img src="https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/images/zhongxi.jpg?raw=true" width="250" height="200"> | <img src="https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/images/thomas.jpg?raw=true" width="200"  height="200">  | <img src="https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/images/johannes.jpg?raw=true" width="200"  height="200">  |
 
+#### Contactpersoon : Gilles De Borger
+
 # Github repo
 
 Onze code bevindt zich in deze github repository:
 
-[https://github.com/GillesDeBorger/cuddly-broccoli](https://github.com/GillesDeBorger/cuddly-broccoli)
+[https://github.com/T7025/stride](https://github.com/T7025/stride)
 
 # simulaties
 
@@ -24,6 +26,6 @@ Het rapport van de 2e opdracht:
 
 # Travis Ci
 
-[![Build Status](https://travis-ci.com/GillesDeBorger/cuddly-broccoli.svg?token=xPifwK1xxjwRzkW1ZfyB&branch=master)](https://travis-ci.com/GillesDeBorger/cuddly-broccoli)
+[![Build Status](https://travis-ci.com/T7025/stride.svg?token=xPifwK1xxjwRzkW1ZfyB&branch=master)](https://travis-ci.com/T7025/stride)
 
-[Travis ci pagina](https://travis-ci.com/GillesDeBorger/cuddly-broccoli)
+*klik op de afbeelding om de travis-ci pagina te zien* 
