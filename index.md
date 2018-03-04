@@ -14,15 +14,11 @@ Onze code bevindt zich in deze github repository:
 
 [https://github.com/T7025/stride](https://github.com/T7025/stride)
 
-# simulaties
+# Opdrachten
 
-Het rapport van de 1e opdracht:
-
-[Opdracht_1](https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/assignment1/report.pdf)
-
-Het rapport van de 2e opdracht:
-
-[Opdracht_2](https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/assignment2/report.pdf)
+- [Verslag Opdracht 1](https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/assignment1/report.pdf)
+- [Verslag Opdracht 2](https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/assignment2/report.pdf)
+- [Verslag Opdracht 3](https://github.com/T7025/stride/blob/master/assignments/assignment3/report.pdf)
 
 # Travis Ci
 
