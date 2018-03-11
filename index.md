@@ -25,3 +25,6 @@ Onze code bevindt zich in deze github repository:
 [![Build Status](https://travis-ci.com/T7025/stride.svg?token=xPifwK1xxjwRzkW1ZfyB&branch=master)](https://travis-ci.com/T7025/stride)
 
 *klik op de afbeelding om de travis-ci pagina te zien* 
+
+# Testplan 
+ [testplan.pdf](https://github.com/T7025/stride/blob/master/assignments/assignment3/testplan.pdf)
