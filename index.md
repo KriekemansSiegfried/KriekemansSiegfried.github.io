@@ -6,7 +6,39 @@
 | ---------------------------------- | ------------------------------------------ | ----------------------- | --------------------------- | -------------------------------- |
 | <img src="https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/images/gilles.jpg?raw=true" width="250" height="200">  | <img src="https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/images/siegfried.jpg?raw=true" width="150"  height="200">  | <img src="https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/images/zhongxi.jpg?raw=true" width="250" height="200"> | <img src="https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/images/thomas.jpg?raw=true" width="200"  height="200">  | <img src="https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/images/johannes.jpg?raw=true" width="200"  height="200">  |
 
-#### Contactpersoon : Gilles De Borger
+<table>
+    <tr>
+        <td><img src="https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/images/gilles.jpg?raw=true" width="150"></td>
+        <td>
+            <p><h4>Gilles De Borger (contactpersoon)</h4></p>
+            <p>GitHub: <a href="https://github.com/GillesDeBorger">GillesDeBorger</a></p>
+        </td>
+        <td><img src="https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/images/siegfried.jpg?raw=true" width="150"></td>
+        <td>
+            <p><h4>Siegfried Kriekemans</h4></p>
+            <p>GitHub: <a href="https://github.com/KriekemansSiegfried">KriekemansSiegfried</a></p>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/images/zhongxi.jpg?raw=true" width="150"></td>
+        <td>
+            <p><h4>Zhong Xi Lu</h4></p>
+            <p>GitHub: <a href="https://github.com/ZhongXiLu">ZhongXiLu</a></p>
+        </td>
+        <td><img src="https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/images/thomas.jpg?raw=true" width="150"></td>
+        <td>
+            <p><h4>Thomas Van Bogaert</h4></p>
+            <p>GitHub: <a href="https://github.com/T7025">T7025</a></p>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/images/johannes.jpg?raw=true" width="150"></td>
+        <td>
+            <p><h4>Johannes Akkermans</h4></p>
+            <p>GitHub: <a href="https://github.com/joostatsooj">joostatsooj</a></p>
+        </td>
+    </tr>
+</table>
 
 # Github repo
 
