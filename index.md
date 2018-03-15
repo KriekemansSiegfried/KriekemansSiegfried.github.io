@@ -52,7 +52,7 @@ Onze code bevindt zich in deze github repository:
 
 *klik op de afbeelding om de travis-ci pagina te zien* 
 
-[Visualisatie laatste testresultaten](https://cdn.rawgit.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/last_test.html)
+[Visualisatie laatste testresultaten](http://htmlpreview.github.io/?https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/last_test.html)
 
 # Testplan 
  [testplan.pdf](https://github.com/T7025/stride/blob/master/assignments/assignment3/testplan.pdf)
