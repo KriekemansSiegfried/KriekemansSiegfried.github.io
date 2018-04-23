@@ -45,6 +45,7 @@ Onze code bevindt zich in deze github repository:
 - [Verslag Opdracht 1](https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/assignment1/report.pdf)
 - [Verslag Opdracht 2](https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/assignment2/report.pdf)
 - [Verslag Opdracht 3](https://github.com/T7025/stride/blob/master/assignments/assignment3/report.pdf)
+- [Verslag Opdracht 4 (stocastische spreiding)](https://github.com/T7025/stride/blob/master/assignments/assignment4/tool_paper/paper.pdf)
 
 # Travis Ci
 
