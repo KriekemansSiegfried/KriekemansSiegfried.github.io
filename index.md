@@ -46,14 +46,15 @@ Onze code bevindt zich in deze github repository:
 - [Verslag Opdracht 2](https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/assignment2/report.pdf)
 - [Verslag Opdracht 3](https://github.com/T7025/stride/blob/master/assignments/assignment3/report.pdf)
 - [Verslag Opdracht 4 (stochastische spreiding)](https://github.com/T7025/stride/blob/master/assignments/assignment4/tool_paper/paper.pdf)
+- [Performantie Analyse Testplan](https://github.com/T7025/stride/blob/benchmarking/assignments/performance_outline/paper.pdf)
 
 # Travis Ci
 
 [![Build Status](https://travis-ci.com/T7025/stride.svg?token=xPifwK1xxjwRzkW1ZfyB&branch=master)](https://travis-ci.com/T7025/stride)
 
-*klik op de afbeelding om de travis-ci pagina te zien* 
+*klik op de afbeelding om de travis-ci pagina te zien*
 
 [Visualisatie laatste testresultaten](http://htmlpreview.github.io/?https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/last_test.html)
 
-# Testplan 
+# Testplan
  [testplan.pdf](https://github.com/T7025/stride/blob/master/assignments/assignment3/testplan.pdf)
