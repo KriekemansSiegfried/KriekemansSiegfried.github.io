@@ -1,0 +1,20 @@
+<map id="Sim.h" name="Sim.h">
+<area shape="rect" id="node2" href="$de/de1/a00065.html" title="Contact profiles stored in simulator. " alt="" coords="1282,81,1475,106"/>
+<area shape="rect" id="node15" href="$db/db6/a00074.html" title="Header for the ContactLogMode class. " alt="" coords="122,406,301,431"/>
+<area shape="rect" id="node20" href="$da/d24/a00068.html" title="Header for the ContactHandler class. " alt="" coords="593,81,764,106"/>
+<area shape="rect" id="node21" href="$d1/d98/a00407.html" title="Interface of RNManager. " alt="" coords="616,162,740,187"/>
+<area shape="rect" id="node30" href="$d2/d1f/a00083.html" title="Header for the InfectorExec class. " alt="" coords="1518,81,1671,106"/>
+<area shape="rect" id="node32" href="$d1/dc1/a00092.html" title="Header for the TransmissionProfile class. " alt="" coords="993,81,1188,106"/>
+<area shape="rect" id="node33" href="$d7/d3f/a00173.html" title="gen&#45;geo&#45;pop/TravelTable.h" alt="" coords="1919,81,2099,106"/>
+<area shape="rect" id="node3" href="$df/d03/a00062.html" title="Contact profile. " alt="" coords="1264,162,1449,187"/>
+<area shape="rect" id="node4" href="$dc/d9a/a00218.html" title="Definition of ContactPoolType. " alt="" coords="1420,406,1583,431"/>
+<area shape="rect" id="node13" href="$dd/d52/a00221.html" title="Container for the contact pools of various type (household, work, ...). " alt="" coords="1623,250,1781,275"/>
+<area shape="rect" id="node10" href="$d5/ddf/a00224.html" title="Helpers for age. " alt="" coords="1318,250,1399,275"/>
+<area shape="rect" id="node14" href="$d3/de5/a00209.html" title="Header for the core ContactPool class. " alt="" coords="1266,331,1400,357"/>
+<area shape="rect" id="node22" href="$d7/d00/a00401.html" title="Interface of Random Engine Type. " alt="" coords="378,406,499,431"/>
+<area shape="rect" id="node34" href="$d5/db1/a00140.html" title="GridPoolType.h" alt="" coords="2215,162,2328,187"/>
+<area shape="rect" id="node38" href="$d1/da8/a00230.html" title="Header file for the Person class. " alt="" coords="1715,162,1815,187"/>
+<area shape="rect" id="node41" href="$db/d43/a00422.html" title="Definition of Stopwatch. " alt="" coords="2206,331,2321,357"/>
+<area shape="rect" id="node39" href="$d0/dc2/a00104.html" title="Header for the Health class. " alt="" coords="1908,250,2028,275"/>
+<area shape="rect" id="node42" href="$d1/d7e/a00434.html" title="Utilities to tag clocks and reformat clock readout to string. " alt="" coords="2254,406,2364,431"/>
+</map>

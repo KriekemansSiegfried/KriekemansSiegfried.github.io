@@ -1,0 +1,28 @@
+<map id="GuiController.cpp" name="GuiController.cpp">
+<area shape="rect" id="node2" href="$dc/d84/a00338.html" title="GuiController.h" alt="" coords="370,230,480,255"/>
+<area shape="rect" id="node3" href="$d8/d8e/a00344.html" title="GuiRunner.h" alt="" coords="947,379,1043,405"/>
+<area shape="rect" id="node24" href="$d6/d82/a00293.html" title="qt/QSim.h" alt="" coords="2240,155,2320,181"/>
+<area shape="rect" id="node43" href="$dc/dc9/a00389.html" title="Interface for install directory queries. " alt="" coords="2801,461,2897,486"/>
+<area shape="rect" id="node50" href="$da/d65/a00458.html" title="viewers/MapViewer.h" alt="" coords="1442,81,1589,106"/>
+<area shape="rect" id="node8" href="$db/d43/a00422.html" title="Definition of Stopwatch. " alt="" coords="404,542,519,567"/>
+<area shape="rect" id="node20" href="$dd/de2/a00320.html" title="Header for the command line controller. " alt="" coords="361,305,489,330"/>
+<area shape="rect" id="node4" href="$de/dd7/a00362.html" title="Header for the SimRunner class. " alt="" coords="1305,461,1428,486"/>
+<area shape="rect" id="node5" href="$d8/d23/a00326.html" title="Definition of EventId. " alt="" coords="982,617,1087,642"/>
+<area shape="rect" id="node7" href="$de/d8e/a02213.html" title="Definition of Subject/Observer for SimEvents. " alt="" coords="1044,542,1181,567"/>
+<area shape="rect" id="node14" href="$d2/dc8/a00242.html" title="Header file for the core Population class. " alt="" coords="2273,698,2393,723"/>
+<area shape="rect" id="node17" href="$df/dc8/a00122.html" title="gen&#45;geo&#45;pop/GeoGrid.h" alt="" coords="2740,617,2901,642"/>
+<area shape="rect" id="node9" href="$d1/d7e/a00434.html" title="Utilities to tag clocks and reformat clock readout to string. " alt="" coords="403,617,513,642"/>
+<area shape="rect" id="node26" href="$d9/d39/a00257.html" title="Map.h" alt="" coords="3604,379,3661,405"/>
+<area shape="rect" id="node31" href="$d5/d42/a00269.html" title="QCommuting.h" alt="" coords="3998,542,4108,567"/>
+<area shape="rect" id="node36" href="$d6/d7f/a00287.html" title="QLocation.h" alt="" coords="3849,542,3941,567"/>
+<area shape="rect" id="node39" href="$df/da9/a00263.html" title="MapBuilder.h" alt="" coords="2545,230,2644,255"/>
+<area shape="rect" id="node40" href="$d0/d39/a00314.html" title="Window.h" alt="" coords="3104,305,3183,330"/>
+<area shape="rect" id="node41" href="$d3/d5e/a00275.html" title="QConfig.h" alt="" coords="2161,379,2241,405"/>
+<area shape="rect" id="node47" href="$d5/d0f/a00308.html" title="Stats.h" alt="" coords="2581,379,2643,405"/>
+<area shape="rect" id="node48" href="$dd/d32/a00041.html" title="Header file for the Calendar class. " alt="" coords="2119,617,2259,642"/>
+<area shape="rect" id="node49" href="$d6/db8/a00158.html" title="gen&#45;geo&#45;pop/MultiPopulation.h" alt="" coords="2119,542,2321,567"/>
+<area shape="rect" id="node37" href="$db/d7b/a00296.html" title="Selection.h" alt="" coords="3823,461,3909,486"/>
+<area shape="rect" id="node38" href="$d0/d61/a00302.html" title="SimReader.h" alt="" coords="3172,542,3269,567"/>
+<area shape="rect" id="node32" href="$d2/d04/a00281.html" title="QDrawable.h" alt="" coords="4004,617,4103,642"/>
+<area shape="rect" id="node46" href="$d7/d00/a00401.html" title="Interface of Random Engine Type. " alt="" coords="1263,617,1384,642"/>
+</map>

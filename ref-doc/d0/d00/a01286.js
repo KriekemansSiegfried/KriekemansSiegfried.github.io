@@ -1,0 +1,25 @@
+var a01286 =
+[
+    [ "Map", "d0/d00/a01286.html#a8064dcd5d3d7227ad73134e9eaf9e3ec", null ],
+    [ "AddLocation", "d0/d00/a01286.html#a1e588a932e98be120c5f156e832cb487", null ],
+    [ "AddCommuting", "d0/d00/a01286.html#a3f31202d2803ade631bde51e01c6f6ea", null ],
+    [ "DrawAll", "d0/d00/a01286.html#a7e33fa78a406d62b034e076dd041e875", null ],
+    [ "GetLocation", "d0/d00/a01286.html#a44f3463d544c77e72892cdcb04cc6d51", null ],
+    [ "GetObject", "d0/d00/a01286.html#a05539e9f18585790dbcd8052e9ea2f13", null ],
+    [ "GetLocations", "d0/d00/a01286.html#a25d301823c3b3151c468ec0808b8576f", null ],
+    [ "SetSimReader", "d0/d00/a01286.html#ab6d8c6408998c3c830ec7f01a82d3181", null ],
+    [ "ToggleFilterSchool", "d0/d00/a01286.html#a81f7313efa34054b865b5ad899461ce2", null ],
+    [ "ToggleFilterWorkplaces", "d0/d00/a01286.html#a4a020359452edb1e05fbd3f993caa538", null ],
+    [ "TogglefilterAcademies", "d0/d00/a01286.html#af5f61f065c8b41628961552ef050e2c1", null ],
+    [ "ToggleFilterCommunities", "d0/d00/a01286.html#ab00b1f40b9e7bc127232bde87f361799", null ],
+    [ "ToggleCommutings", "d0/d00/a01286.html#a5c215f6df7461e8cc78ff6806bad7380", null ],
+    [ "SetInfectedPeopleLocations", "d0/d00/a01286.html#a4df0b75eb1f9bf31f8d42c928b3d6016", null ],
+    [ "filterSchool", "d0/d00/a01286.html#a6f51b8eb643d04249fc9aab0f9bec235", null ],
+    [ "filterWorkplaces", "d0/d00/a01286.html#af9f74a26cf2871211ced635e891f6d8c", null ],
+    [ "filterAcademies", "d0/d00/a01286.html#a84c62a3696334c83fed2417975cd3070", null ],
+    [ "filterCommunities", "d0/d00/a01286.html#a7ea14d224f3ee053751547cce16612d1", null ],
+    [ "locations", "d0/d00/a01286.html#a06d7bd8c446a78927819ea0c7755bd3a", null ],
+    [ "commutings", "d0/d00/a01286.html#a40f47d2781a5c492313a26ad1a2c400d", null ],
+    [ "geoGrid", "d0/d00/a01286.html#aca52bfeaad2239fab111fa2eb5edc61f", null ],
+    [ "simReader", "d0/d00/a01286.html#af05ca24df43bd498c7c67bdaade85c8f", null ]
+];

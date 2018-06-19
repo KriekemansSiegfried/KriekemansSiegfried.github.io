@@ -1,0 +1,13 @@
+<map id="Person.h" name="Person.h">
+<area shape="rect" id="node2" href="$d0/dc2/a00104.html" title="Header for the Health class. " alt="" coords="78,87,199,113"/>
+<area shape="rect" id="node3" href="$dc/d9a/a00218.html" title="Definition of ContactPoolType. " alt="" coords="279,257,441,282"/>
+<area shape="rect" id="node9" href="$dd/d52/a00221.html" title="Container for the contact pools of various type (household, work, ...). " alt="" coords="223,87,381,113"/>
+<area shape="rect" id="node18" href="$d7/d3f/a00173.html" title="gen&#45;geo&#45;pop/TravelTable.h" alt="" coords="1289,87,1468,113"/>
+<area shape="rect" id="node10" href="$d3/de5/a00209.html" title="Header for the core ContactPool class. " alt="" coords="508,175,641,201"/>
+<area shape="rect" id="node11" href="$db/db6/a00074.html" title="Header for the ContactLogMode class. " alt="" coords="591,257,771,282"/>
+<area shape="rect" id="node19" href="$d5/db1/a00140.html" title="GridPoolType.h" alt="" coords="734,175,847,201"/>
+<area shape="rect" id="node24" href="$d1/d98/a00407.html" title="Interface of RNManager. " alt="" coords="1316,175,1440,201"/>
+<area shape="rect" id="node33" href="$db/d43/a00422.html" title="Definition of Stopwatch. " alt="" coords="1465,175,1580,201"/>
+<area shape="rect" id="node25" href="$d7/d00/a00401.html" title="Interface of Random Engine Type. " alt="" coords="1755,257,1876,282"/>
+<area shape="rect" id="node34" href="$d1/d7e/a00434.html" title="Utilities to tag clocks and reformat clock readout to string. " alt="" coords="2131,257,2241,282"/>
+</map>

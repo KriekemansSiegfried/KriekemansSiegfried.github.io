@@ -1,0 +1,7 @@
+<map id="stride::viewers::MapViewer" name="stride::viewers::MapViewer">
+<area shape="rect" id="node4" href="$d9/d73/a00060.html" title="The gui for the stride simulation, is responsible for the following things: " alt="" coords="1172,409,1292,618"/>
+<area shape="rect" id="node5" href="$dd/dad/a00005.html" title="{QObject\n||}" alt="" coords="779,215,849,292"/>
+<area shape="rect" id="node6" href="$d1/d22/a00057.html" title="FormBuilder: Maintains a form based on the configuration (ptree) of the simulation. " alt="" coords="874,163,1003,343"/>
+<area shape="rect" id="node7" href="$d0/d0b/a00004.html" title="{QMainWindow\n||}" alt="" coords="5,13,112,91"/>
+<area shape="rect" id="node22" title="STL class. " alt="" coords="1578,475,1717,552"/>
+</map>

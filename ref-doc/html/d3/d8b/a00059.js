@@ -1,0 +1,25 @@
+var a00059 =
+[
+    [ "QLocation", "d3/d8b/a00059.html#a62c9a7cf8ab8a2020d47224c0bf34647", null ],
+    [ "~QLocation", "d3/d8b/a00059.html#afa10ec349dd659db74cd470e91694f65", null ],
+    [ "Draw", "d3/d8b/a00059.html#ab014a5605a6fee790b09242330551bfe", null ],
+    [ "GetLocation", "d3/d8b/a00059.html#a4e412d8e27947eb574097b10c22aabc4", null ],
+    [ "GetCommuting", "d3/d8b/a00059.html#a134548d3f4180155b21a1e50605e5969", null ],
+    [ "GetTooltipText", "d3/d8b/a00059.html#a006c432b3a20782b1c0e5b9f0000c017", null ],
+    [ "GetInfectedCount", "d3/d8b/a00059.html#a045adcfd76b840ac1bce5d00a5f539c2", null ],
+    [ "SetInfectedCount", "d3/d8b/a00059.html#a1b28a68373a878cc845a42597516ff4c", null ],
+    [ "SetVaccineRate", "d3/d8b/a00059.html#a00410fc63c9d2652833ab8285dd5e3f5", null ],
+    [ "GetPopulation", "d3/d8b/a00059.html#a177b99b37fe4e0262fbb73ffd6bdecb2", null ],
+    [ "GetNumberOfSchools", "d3/d8b/a00059.html#a5b69c6a41e0bee8c06f6485b0842ef10", null ],
+    [ "GetNumberOfWorkplaces", "d3/d8b/a00059.html#ab1ed5866e94f78528aed190a1aba59f7", null ],
+    [ "GetNumberOfAcademies", "d3/d8b/a00059.html#aa296c092299902f014e2a54ecb2412bd", null ],
+    [ "GetNumberOfCommunities", "d3/d8b/a00059.html#a9a9fc6fd172b542d4c49d9409298fd0e", null ],
+    [ "operator==", "d3/d8b/a00059.html#ae320c73df92dba8eedd76d982f48c3e1", null ],
+    [ "location", "d3/d8b/a00059.html#aee69a0d3dc05870fc07138c1fbc0c1cb", null ],
+    [ "commuting", "d3/d8b/a00059.html#a4185538e4fa4552b226cb93aeaea450d", null ],
+    [ "infectedCount", "d3/d8b/a00059.html#acc149c8ddb0baf3ac7a276a3e8bd2528", null ],
+    [ "infectedRatio", "d3/d8b/a00059.html#afa08a89172af81cd0edcb3d25f08ba57", null ],
+    [ "vaccineRate", "d3/d8b/a00059.html#a4e97d641a1a5adbd3b5c7c2a96e0538e", null ],
+    [ "geoGrid", "d3/d8b/a00059.html#a31aa73d5cb198c4eca394655f6622c9b", null ],
+    [ "population", "d3/d8b/a00059.html#a448f9d38b411454b383cd4a78f69a0fd", null ]
+];

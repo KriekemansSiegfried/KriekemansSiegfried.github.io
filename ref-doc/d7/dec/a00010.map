@@ -1,0 +1,10 @@
+<map id="Belief.h" name="Belief.h">
+<area shape="rect" id="node2" href="$da/d45/a00011.html" title="Header file for HBM belief. " alt="" coords="21,81,83,106"/>
+<area shape="rect" id="node3" href="$d2/de7/a00014.html" title="Header file for Imitation belief policy. " alt="" coords="107,81,189,106"/>
+<area shape="rect" id="node8" href="$d4/d51/a00017.html" title="Header file for NoBelief class. " alt="" coords="213,81,296,106"/>
+<area shape="rect" id="node9" href="$db/db2/a00020.html" title="Header file for Threshold belief policy. " alt="" coords="319,81,411,106"/>
+<area shape="rect" id="node4" href="$d6/d5b/a00026.html" title="Header file for the HealthSeeder. " alt="" coords="81,155,188,181"/>
+<area shape="rect" id="node7" href="$d0/d27/a00239.html" title="Core Population class. " alt="" coords="213,155,323,181"/>
+<area shape="rect" id="node5" href="$d3/d52/a00023.html" title="Implementation for BeliefSeeder class. " alt="" coords="4,230,125,255"/>
+<area shape="rect" id="node6" href="$db/ddc/a00353.html" title="Implementation for the SimBuilder class. " alt="" coords="150,230,260,255"/>
+</map>

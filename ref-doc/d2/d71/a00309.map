@@ -1,0 +1,17 @@
+<map id="Stats.h" name="Stats.h">
+<area shape="rect" id="node21" href="$dc/dc9/a00389.html" title="Interface for install directory queries. " alt="" coords="2754,250,2850,275"/>
+<area shape="rect" id="node26" href="$df/dc8/a00122.html" title="gen&#45;geo&#45;pop/GeoGrid.h" alt="" coords="2366,81,2527,106"/>
+<area shape="rect" id="node36" href="$d2/dc8/a00242.html" title="Header file for the core Population class. " alt="" coords="3460,162,3581,187"/>
+<area shape="rect" id="node27" href="$d5/db1/a00140.html" title="GridPoolType.h" alt="" coords="3073,250,3186,275"/>
+<area shape="rect" id="node29" href="$d9/db6/a00146.html" title="Location.h" alt="" coords="3082,162,3165,187"/>
+<area shape="rect" id="node30" href="$d7/d9a/a00152.html" title="LocationData.h" alt="" coords="2392,162,2502,187"/>
+<area shape="rect" id="node44" href="$d4/d13/a00377.html" title="Header file of base class for config that needs to be read from a file. " alt="" coords="1750,162,1829,187"/>
+<area shape="rect" id="node49" href="$d1/d98/a00407.html" title="Interface of RNManager. " alt="" coords="2925,250,3049,275"/>
+<area shape="rect" id="node37" href="$dd/dc1/a00212.html" title="Container for the contact pools of various type (household, work, ...). " alt="" coords="3976,250,4131,275"/>
+<area shape="rect" id="node38" href="$d1/da8/a00230.html" title="Header file for the Person class. " alt="" coords="2629,250,2729,275"/>
+<area shape="rect" id="node39" href="$dd/db5/a00365.html" title="Interface/Implementation of Any. " alt="" coords="3394,250,3469,275"/>
+<area shape="rect" id="node40" href="$df/d15/a00416.html" title="Interface and implementation for SegmentedVector class. " alt="" coords="3211,250,3369,275"/>
+<area shape="rect" id="node45" href="$da/dee/a00383.html" title="Header file of base class for config that needs to be read from a file. " alt="" coords="1748,250,1834,275"/>
+<area shape="rect" id="node46" href="$dc/d2f/a00425.html" title="Miscellaneous string utilities. " alt="" coords="1717,338,1830,363"/>
+<area shape="rect" id="node50" href="$d7/d00/a00401.html" title="Interface of Random Engine Type. " alt="" coords="2925,338,3046,363"/>
+</map>
