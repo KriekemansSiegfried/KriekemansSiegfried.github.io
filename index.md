@@ -58,3 +58,6 @@ Onze code bevindt zich in deze github repository:
 
 # Testplan
  [testplan.pdf](https://github.com/T7025/stride/blob/master/assignments/assignment3/testplan.pdf)
+ 
+# Reference Documentatie
+De gegenereerde reference documentatie met behulp van doxygen is [hier](http://htmlpreview.github.io/?https://github.com/KriekemansSiegfried/KriekemansSiegfried.github.io/blob/master/ref-doc/index.html) te vinden.
