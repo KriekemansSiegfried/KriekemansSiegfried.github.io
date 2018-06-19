@@ -65,4 +65,4 @@ Onze code bevindt zich in deze github repository:
 [User Documentatie](https://github.com/T7025/stride/blob/master/doc/latex/UserManual.pdf)
 
 - Reference Documentation:
-Zie directory `/ref-doc` in de repository.  
+Reference Documentation kan gegenereerd worden gebruik makend van doxygen. Een lokaal kopie is beschikbaar in de repository via `/ref-doc/index.html`
