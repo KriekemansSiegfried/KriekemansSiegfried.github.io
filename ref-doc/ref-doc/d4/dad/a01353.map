@@ -1,0 +1,5 @@
+<map id="stride::SimRunner" name="stride::SimRunner">
+<area shape="rect" id="node4" href="$d5/da0/a01342.html" title="The simulation runner for the gui, inherits SimRunner. " alt="" coords="24,699,149,906"/>
+<area shape="rect" id="node2" href="$d8/d01/a01410.html" title="{stride::util::Subject\l\&lt; stride::sim_event::Id \&gt;\n|&#45; m_observers\l|+ Subject()\l+ ~Subject()\l+ Register()\l+ Unregister()\l+ UnregisterAll()\l+ Notify()\l}" alt="" coords="5,222,168,375"/>
+<area shape="rect" id="node3" href="$d8/d01/a01410.html" title="Template for Subject/Observer (or Publish/Subscribe). " alt="" coords="6,6,167,146"/>
+</map>

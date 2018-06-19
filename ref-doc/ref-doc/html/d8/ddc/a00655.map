@@ -1,0 +1,6 @@
+<map id="stride::GuiController" name="stride::GuiController">
+<area shape="rect" id="node2" href="$d7/dd4/a00013.html" title="Controls a simulation run initiated with the command line interface (cli). " alt="" coords="343,537,499,746"/>
+<area shape="rect" id="node10" href="$df/d5d/a00084.html" title="Provides a stopwatch interface to time: it accumulates time between start/stop pairs. " alt="" coords="600,291,781,471"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="843,149,921,227"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="819,6,945,98"/>
+</map>

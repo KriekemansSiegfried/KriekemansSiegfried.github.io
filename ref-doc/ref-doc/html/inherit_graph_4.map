@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d0/d0b/a00004.html" title="QMainWindow" alt="" coords="5,81,112,108"/>
+<area shape="rect" id="node2" href="$d1/d22/a00057.html" title="FormBuilder: Maintains a form based on the configuration (ptree) of the simulation. " alt="" coords="170,5,299,32"/>
+<area shape="rect" id="node3" href="$df/d03/a00062.html" title="Handles all the statistics of the geogrid en popgen: shows and saves charts. " alt="" coords="179,56,291,83"/>
+<area shape="rect" id="node4" href="$d1/d6f/a00063.html" title="The main window in the stride program; is responsible for the layout of the window. " alt="" coords="171,107,299,133"/>
+<area shape="rect" id="node5" href="$df/d5f/a00064.html" title="The main window in the qttool program. " alt="" coords="160,157,309,184"/>
+</map>

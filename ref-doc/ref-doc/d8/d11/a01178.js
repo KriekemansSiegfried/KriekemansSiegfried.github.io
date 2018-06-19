@@ -1,0 +1,28 @@
+var a01178 =
+[
+    [ "Health", "d8/d11/a01178.html#a29ca39e47180884b3c7681636d1c550d", null ],
+    [ "GetEndInfectiousness", "d8/d11/a01178.html#a14ddc451c52ed76e30e0b6c7b27b03b8", null ],
+    [ "GetEndSymptomatic", "d8/d11/a01178.html#a59823288097c19ba73ffc8c7e92f6b26", null ],
+    [ "GetStartInfectiousness", "d8/d11/a01178.html#a3a63bcdbe9180a87c58224e62ca3eb81", null ],
+    [ "GetStartSymptomatic", "d8/d11/a01178.html#af39c8d9a3a9a3669d68cce7171f4965a", null ],
+    [ "IsImmune", "d8/d11/a01178.html#a3462f1f9a9f04b01cd5fddfb4683f499", null ],
+    [ "IsInfected", "d8/d11/a01178.html#a34ab8ca7f24169afa40743d0370fe4ea", null ],
+    [ "IsInfectious", "d8/d11/a01178.html#a09dd5fc41ce9b3c1ee61552be70c20ac", null ],
+    [ "IsRecovered", "d8/d11/a01178.html#a0ed53b2212322a8e0dc43fb3d2a8542b", null ],
+    [ "IsSusceptible", "d8/d11/a01178.html#a5a2cc065226bdb477c3e57827429b066", null ],
+    [ "IsSymptomatic", "d8/d11/a01178.html#a1a49703b154fa1dd26185328c492fa64", null ],
+    [ "SetImmune", "d8/d11/a01178.html#a2ed35c613838b7cc9fab87fb494f87a1", null ],
+    [ "SetSusceptible", "d8/d11/a01178.html#a8edeec79c050faabe2c09a1bc4860261", null ],
+    [ "StartInfection", "d8/d11/a01178.html#a5d85541b8e22aeaa75b364a454f59088", null ],
+    [ "StopInfection", "d8/d11/a01178.html#af6a2ca202696ba2f39744a5381918922", null ],
+    [ "Update", "d8/d11/a01178.html#a26b7fd4e8c9107413d09592734bae3ce", null ],
+    [ "GetDiseaseCounter", "d8/d11/a01178.html#a4424ec230d3c04b6e8d2f92d1c71ce15", null ],
+    [ "IncrementDiseaseCounter", "d8/d11/a01178.html#af86e0e738953615c5d63613d2054d9e8", null ],
+    [ "ResetDiseaseCounter", "d8/d11/a01178.html#a468c554771acc883799456c14373e9db", null ],
+    [ "m_disease_counter", "d8/d11/a01178.html#a75bc9a662485465d4de779b5cbaf979a", null ],
+    [ "m_status", "d8/d11/a01178.html#a8026c3ff228a052fb849251910bde83b", null ],
+    [ "m_start_infectiousness", "d8/d11/a01178.html#ad925abd929c25a1c404adc3c73639815", null ],
+    [ "m_start_symptomatic", "d8/d11/a01178.html#a7be1828a7863a4f1e89a3181770fd759", null ],
+    [ "m_end_infectiousness", "d8/d11/a01178.html#af68b0d0713728f5981e4830eb9f0ad4a", null ],
+    [ "m_end_symptomatic", "d8/d11/a01178.html#a61cba0b10ed32b10e72a334ce7f9a34d", null ]
+];

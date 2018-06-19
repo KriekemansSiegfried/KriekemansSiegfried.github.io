@@ -1,0 +1,31 @@
+<map id="GuiRunner.cpp" name="GuiRunner.cpp">
+<area shape="rect" id="node2" href="$d8/d8e/a00344.html" title="GuiRunner.h" alt="" coords="931,169,1027,194"/>
+<area shape="rect" id="node17" href="$d2/dc8/a00242.html" title="Header file for the core Population class. " alt="" coords="1365,318,1485,343"/>
+<area shape="rect" id="node33" href="$dd/d32/a00041.html" title="Header file for the Calendar class. " alt="" coords="447,399,587,425"/>
+<area shape="rect" id="node36" href="$d7/d40/a00236.html" title="Initialize populations. " alt="" coords="1475,169,1597,194"/>
+<area shape="rect" id="node37" href="$db/d10/a00350.html" title="Header for the Simulator class. " alt="" coords="2771,318,2849,343"/>
+<area shape="rect" id="node43" href="$d6/de1/a00356.html" title="Header for the SimBuilder class. " alt="" coords="1941,87,2061,113"/>
+<area shape="rect" id="node45" href="$dc/dc9/a00389.html" title="Interface for install directory queries. " alt="" coords="3124,243,3220,269"/>
+<area shape="rect" id="node47" href="$db/dbc/a00395.html" title="Logging (spdlog) utilities. " alt="" coords="791,399,892,425"/>
+<area shape="rect" id="node48" href="$df/d70/a00431.html" title="TimeStamp class. " alt="" coords="108,643,228,669"/>
+<area shape="rect" id="node3" href="$de/dd7/a00362.html" title="Header for the SimRunner class. " alt="" coords="967,243,1089,269"/>
+<area shape="rect" id="node4" href="$d8/d23/a00326.html" title="Definition of EventId. " alt="" coords="662,399,767,425"/>
+<area shape="rect" id="node7" href="$de/d8e/a02213.html" title="Definition of Subject/Observer for SimEvents. " alt="" coords="1018,318,1155,343"/>
+<area shape="rect" id="node11" href="$db/d43/a00422.html" title="Definition of Stopwatch. " alt="" coords="274,569,389,594"/>
+<area shape="rect" id="node31" href="$df/dc8/a00122.html" title="gen&#45;geo&#45;pop/GeoGrid.h" alt="" coords="2215,243,2376,269"/>
+<area shape="rect" id="node8" href="$d8/d5f/a02216.html" title="Interface/Implementation of Subject. " alt="" coords="1343,487,1440,513"/>
+<area shape="rect" id="node12" href="$d1/d7e/a00434.html" title="Utilities to tag clocks and reformat clock readout to string. " alt="" coords="253,643,363,669"/>
+<area shape="rect" id="node18" href="$dd/dc1/a00212.html" title="Container for the contact pools of various type (household, work, ...). " alt="" coords="1221,399,1376,425"/>
+<area shape="rect" id="node19" href="$d1/da8/a00230.html" title="Header file for the Person class. " alt="" coords="1972,399,2072,425"/>
+<area shape="rect" id="node25" href="$dd/db5/a00365.html" title="Interface/Implementation of Any. " alt="" coords="2030,487,2105,513"/>
+<area shape="rect" id="node26" href="$df/d15/a00416.html" title="Interface and implementation for SegmentedVector class. " alt="" coords="1051,569,1209,594"/>
+<area shape="rect" id="node20" href="$d7/d3f/a00173.html" title="gen&#45;geo&#45;pop/TravelTable.h" alt="" coords="1826,487,2005,513"/>
+<area shape="rect" id="node21" href="$d5/db1/a00140.html" title="GridPoolType.h" alt="" coords="2105,569,2217,594"/>
+<area shape="rect" id="node23" href="$d1/d98/a00407.html" title="Interface of RNManager. " alt="" coords="2456,569,2580,594"/>
+<area shape="rect" id="node38" href="$de/de1/a00065.html" title="Contact profiles stored in simulator. " alt="" coords="2873,399,3065,425"/>
+<area shape="rect" id="node39" href="$da/d24/a00068.html" title="Header for the ContactHandler class. " alt="" coords="2873,487,3044,513"/>
+<area shape="rect" id="node40" href="$db/db6/a00074.html" title="Header for the ContactLogMode class. " alt="" coords="3242,643,3421,669"/>
+<area shape="rect" id="node41" href="$d2/d1f/a00083.html" title="Header for the InfectorExec class. " alt="" coords="1795,399,1948,425"/>
+<area shape="rect" id="node42" href="$d1/dc1/a00092.html" title="Header for the TransmissionProfile class. " alt="" coords="2502,399,2697,425"/>
+<area shape="rect" id="node44" href="$d6/db8/a00158.html" title="gen&#45;geo&#45;pop/MultiPopulation.h" alt="" coords="2195,169,2397,194"/>
+</map>

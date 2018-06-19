@@ -1,0 +1,28 @@
+<map id="MapBuilder.h" name="MapBuilder.h">
+<area shape="rect" id="node2" href="$d1/da8/a00230.html" title="SimReader.h" alt="" coords="1105,304,1204,331"/>
+<area shape="rect" id="node20" href="$d5/db1/a00140.html" title="gen&#45;geo&#45;pop/GeoGrid.h" alt="" coords="2602,387,2757,413"/>
+<area shape="rect" id="node27" href="$d1/d72/a00204.html" title="Header file for the core Population class. " alt="" coords="2070,477,2188,504"/>
+<area shape="rect" id="node37" href="$d7/d2f/a00258.html" title="Window.h" alt="" coords="3584,80,3663,107"/>
+<area shape="rect" id="node3" href="$dc/d55/a00226.html" title="Header for the Simulator class. " alt="" coords="1114,387,1195,413"/>
+<area shape="rect" id="node4" href="$d5/d1e/a00103.html" title="Contact profiles stored in simulator. " alt="" coords="689,477,881,504"/>
+<area shape="rect" id="node5" href="$d8/d87/a00118.html" title="Header for the ContactHandler class. " alt="" coords="1008,477,1179,504"/>
+<area shape="rect" id="node6" href="$d5/d0b/a00220.html" title="Interface of RNManager. " alt="" coords="1179,568,1303,595"/>
+<area shape="rect" id="node9" href="$d4/d98/a00120.html" title="Header for the ContactLogMode class. " alt="" coords="688,568,867,595"/>
+<area shape="rect" id="node10" href="$dd/da7/a00168.html" title="Header for the InfectorExec class. " alt="" coords="1253,477,1407,504"/>
+<area shape="rect" id="node12" href="$dc/ded/a00252.html" title="Header for the TransmissionProfile class. " alt="" coords="2264,477,2459,504"/>
+<area shape="rect" id="node21" href="$d9/db6/a00146.html" title="GridPoolType.h" alt="" coords="2949,568,3060,595"/>
+<area shape="rect" id="node22" href="$d6/dfb/a00172.html" title="Location.h" alt="" coords="3029,477,3111,504"/>
+<area shape="rect" id="node24" href="$d8/df1/a00174.html" title="LocationData.h" alt="" coords="2843,477,2953,504"/>
+<area shape="rect" id="node36" href="$df/dcd/a00127.html" title="Header file of base class for config that needs to be read from a file. " alt="" coords="1760,477,1841,504"/>
+<area shape="rect" id="node28" href="$de/d36/a00123.html" title="Container for the contact pools of various type (household, work, ...). " alt="" coords="2151,568,2307,595"/>
+<area shape="rect" id="node29" href="$d3/d2a/a00195.html" title="Header file for the Person class. " alt="" coords="2573,568,2672,595"/>
+<area shape="rect" id="node30" href="$d0/dc2/a00104.html" title="Interface/Implementation of Any. " alt="" coords="2049,568,2125,595"/>
+<area shape="rect" id="node32" href="$dc/d28/a00223.html" title="Interface and implementation for SegmentedVector class. " alt="" coords="1866,568,2024,595"/>
+<area shape="rect" id="node44" href="$d7/d25/a00182.html" title="Map.h" alt="" coords="3356,155,3413,181"/>
+<area shape="rect" id="node45" href="$dc/d31/a00208.html" title="QCommuting.h" alt="" coords="2663,304,2773,331"/>
+<area shape="rect" id="node46" href="$d3/dd1/a00214.html" title="QLocation.h" alt="" coords="2869,304,2960,331"/>
+<area shape="rect" id="node47" href="$d5/ddf/a00224.html" title="Selection.h" alt="" coords="3177,229,3263,256"/>
+<area shape="rect" id="node48" href="$da/de7/a00210.html" title="QConfig.h" alt="" coords="3847,304,3928,331"/>
+<area shape="rect" id="node49" href="$d4/ddd/a00138.html" title="Interface for install directory queries. " alt="" coords="3165,387,3264,413"/>
+<area shape="rect" id="node50" href="$d3/d42/a00235.html" title="Stats.h" alt="" coords="3441,304,3505,331"/>
+</map>

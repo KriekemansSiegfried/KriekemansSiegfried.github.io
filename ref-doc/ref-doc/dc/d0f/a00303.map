@@ -1,0 +1,24 @@
+<map id="SimReader.h" name="SimReader.h">
+<area shape="rect" id="node2" href="$db/d10/a00350.html" title="Header for the Simulator class. " alt="" coords="1313,87,1391,113"/>
+<area shape="rect" id="node40" href="$df/dc8/a00122.html" title="gen&#45;geo&#45;pop/GeoGrid.h" alt="" coords="2709,87,2870,113"/>
+<area shape="rect" id="node3" href="$de/de1/a00065.html" title="Contact profiles stored in simulator. " alt="" coords="1456,169,1648,194"/>
+<area shape="rect" id="node12" href="$da/d24/a00068.html" title="Header for the ContactHandler class. " alt="" coords="991,169,1162,194"/>
+<area shape="rect" id="node13" href="$d1/d98/a00407.html" title="Interface of RNManager. " alt="" coords="912,250,1035,275"/>
+<area shape="rect" id="node22" href="$db/db6/a00074.html" title="Header for the ContactLogMode class. " alt="" coords="45,419,224,445"/>
+<area shape="rect" id="node23" href="$d2/d1f/a00083.html" title="Header for the InfectorExec class. " alt="" coords="1893,169,2046,194"/>
+<area shape="rect" id="node25" href="$d1/dc1/a00092.html" title="Header for the TransmissionProfile class. " alt="" coords="1187,169,1382,194"/>
+<area shape="rect" id="node26" href="$d7/d3f/a00173.html" title="gen&#45;geo&#45;pop/TravelTable.h" alt="" coords="1689,169,1868,194"/>
+<area shape="rect" id="node4" href="$df/d03/a00062.html" title="Contact profile. " alt="" coords="1144,250,1330,275"/>
+<area shape="rect" id="node5" href="$dc/d9a/a00218.html" title="Definition of ContactPoolType. " alt="" coords="1644,419,1807,445"/>
+<area shape="rect" id="node11" href="$dd/d52/a00221.html" title="Container for the contact pools of various type (household, work, ...). " alt="" coords="1852,338,2010,363"/>
+<area shape="rect" id="node14" href="$d7/d00/a00401.html" title="Interface of Random Engine Type. " alt="" coords="455,419,576,445"/>
+<area shape="rect" id="node27" href="$d5/db1/a00140.html" title="GridPoolType.h" alt="" coords="2725,250,2838,275"/>
+<area shape="rect" id="node31" href="$d1/da8/a00230.html" title="Header file for the Person class. " alt="" coords="1833,250,1932,275"/>
+<area shape="rect" id="node33" href="$db/d43/a00422.html" title="Definition of Stopwatch. " alt="" coords="1364,419,1479,445"/>
+<area shape="rect" id="node41" href="$d9/db6/a00146.html" title="Location.h" alt="" coords="2748,169,2831,194"/>
+<area shape="rect" id="node42" href="$d7/d9a/a00152.html" title="LocationData.h" alt="" coords="3017,169,3127,194"/>
+<area shape="rect" id="node46" href="$d2/dc8/a00242.html" title="Header file for the core Population class. " alt="" coords="2486,169,2607,194"/>
+<area shape="rect" id="node50" href="$d4/d13/a00377.html" title="Header file of base class for config that needs to be read from a file. " alt="" coords="3151,169,3230,194"/>
+<area shape="rect" id="node47" href="$dd/dc1/a00212.html" title="Container for the contact pools of various type (household, work, ...). " alt="" coords="2396,250,2551,275"/>
+<area shape="rect" id="node48" href="$dd/db5/a00365.html" title="Interface/Implementation of Any. " alt="" coords="2576,250,2651,275"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="ContactHandler.h" name="ContactHandler.h">
+<area shape="rect" id="node2" href="$da/dec/a00080.html" title="Header for the Infector class. " alt="" coords="138,81,213,106"/>
+<area shape="rect" id="node6" href="$d4/d81/a00110.html" title="Header file for the HealthSeeder. " alt="" coords="303,81,416,106"/>
+<area shape="rect" id="node8" href="$db/d10/a00350.html" title="Header for the Simulator class. " alt="" coords="1080,81,1135,106"/>
+<area shape="rect" id="node3" href="$d1/d09/a00077.html" title="Implementation of Infector algorithms. " alt="" coords="131,155,220,181"/>
+<area shape="rect" id="node4" href="$da/d2a/a00086.html" title="Header for the InfectorMap. " alt="" coords="5,155,107,181"/>
+<area shape="rect" id="node5" href="$db/ddc/a00353.html" title="Implementation for the SimBuilder class. " alt="" coords="356,230,465,255"/>
+<area shape="rect" id="node7" href="$df/d98/a00107.html" title="Implementation for HelthSeeder class. " alt="" coords="246,155,372,181"/>
+<area shape="rect" id="node9" href="$d9/d77/a00095.html" title="Implementation for the DiseaseSeeder class. " alt="" coords="1497,155,1633,181"/>
+<area shape="rect" id="node10" href="$d0/d61/a00302.html" title="SimReader.h" alt="" coords="1657,155,1755,181"/>
+<area shape="rect" id="node25" href="$d3/d93/a00341.html" title="GuiRunner.cpp" alt="" coords="1780,155,1889,181"/>
+<area shape="rect" id="node26" href="$d1/dc6/a00347.html" title="Implementation for the Simulator class. " alt="" coords="448,155,517,181"/>
+<area shape="rect" id="node27" href="$d4/def/a00359.html" title="Implementation for SimRunner. " alt="" coords="541,155,653,181"/>
+<area shape="rect" id="node28" href="$d4/da8/a00437.html" title="Definition of Observer for SimEvents for commandline interface usage. " alt="" coords="677,155,813,181"/>
+<area shape="rect" id="node29" href="$d0/dc4/a00443.html" title="Definition of Observer for SimEvents for commandline interface usage. " alt="" coords="837,155,939,181"/>
+<area shape="rect" id="node30" href="$d9/d10/a00449.html" title="Definition of Observer for SimEvents for commandline interface usage. " alt="" coords="962,155,1096,181"/>
+<area shape="rect" id="node31" href="$d5/d5f/a00461.html" title="Definition of Observer for SimEvents for commandline interface usage. " alt="" coords="1120,155,1255,181"/>
+<area shape="rect" id="node32" href="$d7/d5e/a00467.html" title="Definition of Observer for SimEvents for commandline interface usage. " alt="" coords="1279,155,1421,181"/>
+<area shape="rect" id="node11" href="$d9/d39/a00257.html" title="Map.h" alt="" coords="1812,230,1869,255"/>
+<area shape="rect" id="node14" href="$df/da9/a00263.html" title="MapBuilder.h" alt="" coords="1550,379,1649,405"/>
+<area shape="rect" id="node24" href="$df/d95/a00299.html" title="SimReader.cpp" alt="" coords="1650,230,1763,255"/>
+<area shape="rect" id="node12" href="$d7/d03/a00254.html" title="Map.cpp" alt="" coords="1892,305,1964,330"/>
+<area shape="rect" id="node13" href="$d0/d39/a00314.html" title="Window.h" alt="" coords="1688,305,1767,330"/>
+<area shape="rect" id="node16" href="$d6/d82/a00293.html" title="QSim.h" alt="" coords="1667,454,1732,479"/>
+<area shape="rect" id="node23" href="$d1/d5d/a00311.html" title="Window.cpp" alt="" coords="1724,379,1816,405"/>
+<area shape="rect" id="node15" href="$dd/dd7/a00260.html" title="MapBuilder.cpp" alt="" coords="1530,454,1643,479"/>
+<area shape="rect" id="node17" href="$df/d4a/a02204.html" title="main.cpp" alt="" coords="1522,529,1597,554"/>
+<area shape="rect" id="node18" href="$de/d25/a00290.html" title="QSim.cpp" alt="" coords="1621,529,1700,554"/>
+<area shape="rect" id="node19" href="$df/d91/a00335.html" title="GuiController.cpp" alt="" coords="1663,603,1787,629"/>
+<area shape="rect" id="node20" href="$da/d65/a00458.html" title="MapViewer.h" alt="" coords="1804,529,1901,554"/>
+<area shape="rect" id="node21" href="$da/de0/a00317.html" title="Header for the command line controller. " alt="" coords="1948,603,2067,629"/>
+<area shape="rect" id="node22" href="$dd/d63/a00455.html" title="MapViewer.cpp" alt="" coords="1812,603,1924,629"/>
+</map>

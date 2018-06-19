@@ -1,0 +1,11 @@
+<map id="stride::qt::Window" name="stride::qt::Window">
+<area shape="rect" id="node2" href="$d7/db7/a02198.html" title="{QMainWindow\n||}" alt="" coords="715,311,823,385"/>
+<area shape="rect" id="node19" href="$d4/d34/a01298.html" title="FormBuilder: Maintains a form based on the configuration (ptree) of the simulation. " alt="" coords="1564,487,1692,654"/>
+<area shape="rect" id="node3" href="$d9/de6/a01314.html" title="{stride::qt::Selection\l\&lt; stride::qt::QLocation \&gt;\n||+ Selection()\l+ ~Selection()\l+ AddItemMouse()\l+ AddItemBand()\l+ ClearAll()\l+ ClearBandSelection()\l+ FinishBand()\l+ Contains()\l+ GetSummary()\l+ GetSummary()\l+ GetSummary()\l}" alt="" coords="309,763,472,983"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="245,149,357,222"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="682,149,821,222"/>
+<area shape="rect" id="node8" href="$d9/de6/a01314.html" title="Data structure for a selection. " alt="" coords="103,467,268,674"/>
+<area shape="rect" id="node15" href="$d1/d88/a01578.html" title="{double\n||}" alt="" coords="837,837,899,910"/>
+<area shape="rect" id="node17" href="$da/d79/a01310.html" title="The gui for the stride simulation, is responsible for the following things: " alt="" coords="1496,777,1615,970"/>
+<area shape="rect" id="node18" href="$d0/d9d/a02202.html" title="{QObject\n||}" alt="" coords="1469,534,1539,607"/>
+</map>

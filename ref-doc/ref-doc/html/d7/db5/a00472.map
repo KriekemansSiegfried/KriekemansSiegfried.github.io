@@ -1,0 +1,22 @@
+<map id="Selection.h" name="Selection.h">
+<area shape="rect" id="node5" href="$d3/dd1/a00214.html" title="QLocation.h" alt="" coords="2335,80,2427,107"/>
+<area shape="rect" id="node6" href="$dd/dc1/a00212.html" title="QDrawable.h" alt="" coords="2479,155,2577,181"/>
+<area shape="rect" id="node11" href="$d5/db1/a00140.html" title="gen&#45;geo&#45;pop/GeoGrid.h" alt="" coords="1497,155,1652,181"/>
+<area shape="rect" id="node12" href="$d9/db6/a00146.html" title="GridPoolType.h" alt="" coords="1113,419,1224,445"/>
+<area shape="rect" id="node14" href="$d6/dfb/a00172.html" title="Location.h" alt="" coords="1188,328,1269,355"/>
+<area shape="rect" id="node16" href="$d8/df1/a00174.html" title="LocationData.h" alt="" coords="1969,237,2079,264"/>
+<area shape="rect" id="node24" href="$d1/d72/a00204.html" title="Header file for the core Population class. " alt="" coords="734,237,852,264"/>
+<area shape="rect" id="node38" href="$df/dcd/a00127.html" title="Header file of base class for config that needs to be read from a file. " alt="" coords="1663,237,1744,264"/>
+<area shape="rect" id="node43" href="$d5/d0b/a00220.html" title="Interface of RNManager. " alt="" coords="2062,501,2185,528"/>
+<area shape="rect" id="node25" href="$de/d36/a00123.html" title="Container for the contact pools of various type (household, work, ...). " alt="" coords="322,328,477,355"/>
+<area shape="rect" id="node30" href="$d3/d2a/a00195.html" title="Header file for the Person class. " alt="" coords="199,328,297,355"/>
+<area shape="rect" id="node32" href="$d0/dc2/a00104.html" title="Interface/Implementation of Any. " alt="" coords="1036,328,1112,355"/>
+<area shape="rect" id="node34" href="$dc/d28/a00223.html" title="Interface and implementation for SegmentedVector class. " alt="" coords="734,419,892,445"/>
+<area shape="rect" id="node26" href="$df/dc8/a00122.html" title="Header for the core ContactPool class. " alt="" coords="629,501,763,528"/>
+<area shape="rect" id="node27" href="$dc/dfe/a00125.html" title="Definition of ContactPoolType. " alt="" coords="511,576,673,603"/>
+<area shape="rect" id="node29" href="$d6/db8/a00158.html" title="Container for the contact pools of various type (household, work, ...). " alt="" coords="449,419,607,445"/>
+<area shape="rect" id="node31" href="$da/d01/a00153.html" title="Header for the Health class. " alt="" coords="304,419,424,445"/>
+<area shape="rect" id="node39" href="$d9/d47/a00129.html" title="Header file of base class for config that needs to be read from a file. " alt="" coords="1820,328,1908,355"/>
+<area shape="rect" id="node40" href="$d4/d08/a00237.html" title="Miscellaneous string utilities. " alt="" coords="1844,419,1959,445"/>
+<area shape="rect" id="node44" href="$dc/d9a/a00218.html" title="Interface of Random Engine Type. " alt="" coords="2509,576,2632,603"/>
+</map>

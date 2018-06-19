@@ -1,0 +1,22 @@
+<map id="SummaryViewer.h" name="SummaryViewer.h">
+<area shape="rect" id="node2" href="$d2/dc8/a00242.html" title="Header for the SummaryFile class. " alt="" coords="5,155,155,181"/>
+<area shape="rect" id="node6" href="$d0/d53/a00232.html" title="Header for the SimRunner class. " alt="" coords="495,80,617,107"/>
+<area shape="rect" id="node7" href="$d1/db7/a00157.html" title="Definition of EventId. " alt="" coords="293,328,397,355"/>
+<area shape="rect" id="node9" href="$d0/d27/a00239.html" title="Definition of Subject/Observer for SimEvents. " alt="" coords="593,237,732,264"/>
+<area shape="rect" id="node14" href="$d7/d40/a00236.html" title="Definition of Stopwatch. " alt="" coords="333,419,448,445"/>
+<area shape="rect" id="node22" href="$d1/d72/a00204.html" title="Header file for the core Population class. " alt="" coords="985,155,1103,181"/>
+<area shape="rect" id="node10" href="$d9/d21/a00240.html" title="Interface/Implementation of Subject. " alt="" coords="655,328,753,355"/>
+<area shape="rect" id="node15" href="$d0/da7/a00250.html" title="Utilities to tag clocks and reformat clock readout to string. " alt="" coords="586,501,696,528"/>
+<area shape="rect" id="node23" href="$de/d36/a00123.html" title="Container for the contact pools of various type (household, work, ...). " alt="" coords="1395,237,1551,264"/>
+<area shape="rect" id="node35" href="$d3/d2a/a00195.html" title="Header file for the Person class. " alt="" coords="1120,237,1219,264"/>
+<area shape="rect" id="node42" href="$d0/dc2/a00104.html" title="Interface/Implementation of Any. " alt="" coords="553,328,629,355"/>
+<area shape="rect" id="node43" href="$dc/d28/a00223.html" title="Interface and implementation for SegmentedVector class. " alt="" coords="2014,419,2172,445"/>
+<area shape="rect" id="node24" href="$df/dc8/a00122.html" title="Header for the core ContactPool class. " alt="" coords="1755,419,1888,445"/>
+<area shape="rect" id="node26" href="$dc/dfe/a00125.html" title="Definition of ContactPoolType. " alt="" coords="1333,501,1496,528"/>
+<area shape="rect" id="node30" href="$d6/db8/a00158.html" title="Container for the contact pools of various type (household, work, ...). " alt="" coords="1453,328,1611,355"/>
+<area shape="rect" id="node25" href="$d4/d98/a00120.html" title="Header for the ContactLogMode class. " alt="" coords="383,501,561,528"/>
+<area shape="rect" id="node36" href="$da/d01/a00153.html" title="Header for the Health class. " alt="" coords="937,328,1057,355"/>
+<area shape="rect" id="node37" href="$d7/d03/a00254.html" title="gen&#45;geo&#45;pop/TravelTable.h" alt="" coords="1081,328,1257,355"/>
+<area shape="rect" id="node38" href="$d9/db6/a00146.html" title="GridPoolType.h" alt="" coords="1265,419,1376,445"/>
+<area shape="rect" id="node44" href="$d0/d1f/a00247.html" title="Interface/Implementation for SVIterator. " alt="" coords="2299,501,2391,528"/>
+</map>

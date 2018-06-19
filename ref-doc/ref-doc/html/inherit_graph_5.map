@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$de/d21/a00006.html" title="QWidget" alt="" coords="6,31,79,57"/>
+<area shape="rect" id="node2" href="$d7/df7/a00058.html" title="Represents a drawable object that can be drawn on the Map. " alt="" coords="128,31,275,57"/>
+<area shape="rect" id="node3" href="$d9/d2e/a00056.html" title="Represents a commuting line that can be drawn on the Map. " alt="" coords="323,5,482,32"/>
+<area shape="rect" id="node4" href="$d3/d8b/a00059.html" title="Represents a Location that can be drawn on the Map. " alt="" coords="333,56,473,83"/>
+</map>

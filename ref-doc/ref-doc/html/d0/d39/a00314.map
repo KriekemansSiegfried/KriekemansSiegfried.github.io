@@ -1,0 +1,34 @@
+<map id="CliController.cpp" name="CliController.cpp">
+<area shape="rect" id="node2" href="$d3/d00/a00113.html" title="Header for the command line controller. " alt="" coords="1751,171,1880,197"/>
+<area shape="rect" id="node4" href="$d0/d53/a00232.html" title="Header for the SimRunner class. " alt="" coords="1685,320,1808,347"/>
+<area shape="rect" id="node12" href="$d1/d72/a00204.html" title="Header file for the core Population class. " alt="" coords="2611,395,2729,421"/>
+<area shape="rect" id="node22" href="$d5/db1/a00140.html" title="gen&#45;geo&#45;pop/GeoGrid.h" alt="" coords="3174,320,3329,347"/>
+<area shape="rect" id="node26" href="$d5/d0b/a00220.html" title="Interface of RNManager. " alt="" coords="3017,395,3140,421"/>
+<area shape="rect" id="node27" href="$d9/d4b/a00117.html" title="Info on configuration. " alt="" coords="2115,171,2229,197"/>
+<area shape="rect" id="node28" href="$d4/ddd/a00138.html" title="Interface for install directory queries. " alt="" coords="3803,320,3901,347"/>
+<area shape="rect" id="node30" href="$d5/de9/a00176.html" title="Logging (spdlog) utilities. " alt="" coords="1902,395,2004,421"/>
+<area shape="rect" id="node31" href="$de/dbc/a00249.html" title="TimeStamp class. " alt="" coords="250,395,371,421"/>
+<area shape="rect" id="node36" href="$da/d74/a00099.html" title="Observer for Adopted output. " alt="" coords="861,245,1032,272"/>
+<area shape="rect" id="node38" href="$d2/da3/a00115.html" title="Observer for SimEvents for commandline interface usage. " alt="" coords="1283,245,1421,272"/>
+<area shape="rect" id="node39" href="$d0/d48/a00165.html" title="Observer for Cases output. " alt="" coords="615,245,784,272"/>
+<area shape="rect" id="node41" href="$d8/d00/a00186.html" title="viewers/MapViewer.h" alt="" coords="3329,88,3476,115"/>
+<area shape="rect" id="node43" href="$da/d15/a00188.html" title="gen&#45;geo&#45;pop/MultiPopulation.h" alt="" coords="3279,245,3476,272"/>
+<area shape="rect" id="node44" href="$d8/d72/a00199.html" title="Observer for Persons output. " alt="" coords="1699,245,1869,272"/>
+<area shape="rect" id="node46" href="$d6/d08/a00244.html" title="Observer for Persons output. " alt="" coords="1496,245,1675,272"/>
+<area shape="rect" id="node49" href="$d5/df1/a00206.html" title="gen&#45;geo&#45;pop/PopulationGenerator.h" alt="" coords="2977,245,3204,272"/>
+<area shape="rect" id="node3" href="$d9/d7d/a00150.html" title="sim/GuiRunner.h" alt="" coords="2336,245,2456,272"/>
+<area shape="rect" id="node8" href="$d7/d40/a00236.html" title="Definition of Stopwatch. " alt="" coords="1395,395,1511,421"/>
+<area shape="rect" id="node5" href="$d1/db7/a00157.html" title="Definition of EventId. " alt="" coords="1394,477,1499,504"/>
+<area shape="rect" id="node7" href="$d0/d27/a00239.html" title="Definition of Subject/Observer for SimEvents. " alt="" coords="1739,395,1877,421"/>
+<area shape="rect" id="node13" href="$de/d36/a00123.html" title="Container for the contact pools of various type (household, work, ...). " alt="" coords="2675,477,2831,504"/>
+<area shape="rect" id="node14" href="$d3/d2a/a00195.html" title="Header file for the Person class. " alt="" coords="3211,477,3309,504"/>
+<area shape="rect" id="node15" href="$d0/dc2/a00104.html" title="Interface/Implementation of Any. " alt="" coords="3008,477,3084,504"/>
+<area shape="rect" id="node17" href="$dc/d28/a00223.html" title="Interface and implementation for SegmentedVector class. " alt="" coords="1523,477,1681,504"/>
+<area shape="rect" id="node23" href="$d9/db6/a00146.html" title="GridPoolType.h" alt="" coords="3485,477,3596,504"/>
+<area shape="rect" id="node24" href="$d6/dfb/a00172.html" title="Location.h" alt="" coords="3216,395,3297,421"/>
+<area shape="rect" id="node37" href="$d1/d84/a00097.html" title="Header for the AdoptedFile class. " alt="" coords="737,320,879,347"/>
+<area shape="rect" id="node40" href="$dd/dae/a00163.html" title="Header for the InfectedFile class. " alt="" coords="469,320,609,347"/>
+<area shape="rect" id="node42" href="$d6/d43/a00216.html" title="qt/QSim.h" alt="" coords="3362,171,3443,197"/>
+<area shape="rect" id="node45" href="$de/db1/a00197.html" title="Header for the PersonFile class. " alt="" coords="2113,477,2255,504"/>
+<area shape="rect" id="node47" href="$d2/dc8/a00242.html" title="Header for the SummaryFile class. " alt="" coords="2182,395,2332,421"/>
+</map>

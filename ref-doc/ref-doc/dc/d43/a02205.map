@@ -1,0 +1,26 @@
+<map id="main.cpp" name="main.cpp">
+<area shape="rect" id="node2" href="$d2/dc8/a00242.html" title="Header file for the core Population class. " alt="" coords="2236,379,2357,405"/>
+<area shape="rect" id="node30" href="$d6/d82/a00293.html" title="qt/QSim.h" alt="" coords="1462,81,1542,106"/>
+<area shape="rect" id="node3" href="$dd/dc1/a00212.html" title="Container for the contact pools of various type (household, work, ...). " alt="" coords="2778,461,2933,486"/>
+<area shape="rect" id="node13" href="$d1/da8/a00230.html" title="Header file for the Person class. " alt="" coords="2601,461,2701,486"/>
+<area shape="rect" id="node18" href="$dd/db5/a00365.html" title="Interface/Implementation of Any. " alt="" coords="2259,461,2334,486"/>
+<area shape="rect" id="node21" href="$df/d15/a00416.html" title="Interface and implementation for SegmentedVector class. " alt="" coords="2763,630,2921,655"/>
+<area shape="rect" id="node4" href="$d3/de5/a00209.html" title="Header for the core ContactPool class. " alt="" coords="2353,630,2486,655"/>
+<area shape="rect" id="node5" href="$dc/d9a/a00218.html" title="Definition of ContactPoolType. " alt="" coords="2076,705,2238,730"/>
+<area shape="rect" id="node10" href="$dd/d52/a00221.html" title="Container for the contact pools of various type (household, work, ...). " alt="" coords="2596,549,2754,574"/>
+<area shape="rect" id="node14" href="$d0/dc2/a00104.html" title="Header for the Health class. " alt="" coords="2299,549,2420,574"/>
+<area shape="rect" id="node16" href="$d7/d3f/a00173.html" title="gen&#45;geo&#45;pop/TravelTable.h" alt="" coords="2095,549,2274,574"/>
+<area shape="rect" id="node22" href="$d4/dd3/a00428.html" title="Interface/Implementation for SVIterator. " alt="" coords="2792,705,2884,730"/>
+<area shape="rect" id="node33" href="$d9/d39/a00257.html" title="Map.h" alt="" coords="652,305,709,330"/>
+<area shape="rect" id="node38" href="$d5/d42/a00269.html" title="QCommuting.h" alt="" coords="44,379,154,405"/>
+<area shape="rect" id="node39" href="$d6/d7f/a00287.html" title="QLocation.h" alt="" coords="281,461,373,486"/>
+<area shape="rect" id="node41" href="$df/da9/a00263.html" title="MapBuilder.h" alt="" coords="1203,155,1302,181"/>
+<area shape="rect" id="node42" href="$d0/d39/a00314.html" title="Window.h" alt="" coords="983,230,1061,255"/>
+<area shape="rect" id="node43" href="$d3/d5e/a00275.html" title="QConfig.h" alt="" coords="1515,305,1596,330"/>
+<area shape="rect" id="node44" href="$dc/dc9/a00389.html" title="Interface for install directory queries. " alt="" coords="1875,379,1972,405"/>
+<area shape="rect" id="node45" href="$d5/d0f/a00308.html" title="Stats.h" alt="" coords="1428,305,1490,330"/>
+<area shape="rect" id="node47" href="$dd/d32/a00041.html" title="Header file for the Calendar class. " alt="" coords="1551,461,1690,486"/>
+<area shape="rect" id="node48" href="$d6/db8/a00158.html" title="gen&#45;geo&#45;pop/MultiPopulation.h" alt="" coords="1892,305,2094,330"/>
+<area shape="rect" id="node49" href="$d8/d8e/a00344.html" title="sim/GuiRunner.h" alt="" coords="2118,305,2238,330"/>
+<area shape="rect" id="node40" href="$db/d7b/a00296.html" title="Selection.h" alt="" coords="433,379,520,405"/>
+</map>

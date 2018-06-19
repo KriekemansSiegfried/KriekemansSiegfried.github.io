@@ -1,0 +1,33 @@
+<map id="AgeContactProfile.h" name="AgeContactProfile.h">
+<area shape="rect" id="node2" href="$d3/d8b/a00059.html" title="Contact profile. " alt="" coords="976,81,1129,106"/>
+<area shape="rect" id="node3" href="$de/de1/a00065.html" title="Contact profiles stored in simulator. " alt="" coords="1155,81,1300,106"/>
+<area shape="rect" id="node30" href="$da/dec/a00080.html" title="Header for the Infector class. " alt="" coords="1486,81,1561,106"/>
+<area shape="rect" id="node4" href="$db/d10/a00350.html" title="Header for the Simulator class. " alt="" coords="882,155,936,181"/>
+<area shape="rect" id="node5" href="$d9/d77/a00095.html" title="Implementation for the DiseaseSeeder class. " alt="" coords="1397,230,1533,255"/>
+<area shape="rect" id="node6" href="$d0/d61/a00302.html" title="SimReader.h" alt="" coords="143,230,240,255"/>
+<area shape="rect" id="node21" href="$d3/d93/a00341.html" title="GuiRunner.cpp" alt="" coords="265,230,375,255"/>
+<area shape="rect" id="node22" href="$d1/dc6/a00347.html" title="Implementation for the Simulator class. " alt="" coords="399,230,468,255"/>
+<area shape="rect" id="node23" href="$db/ddc/a00353.html" title="Implementation for the SimBuilder class. " alt="" coords="1558,230,1668,255"/>
+<area shape="rect" id="node24" href="$d4/def/a00359.html" title="Implementation for SimRunner. " alt="" coords="492,230,604,255"/>
+<area shape="rect" id="node25" href="$d4/da8/a00437.html" title="Definition of Observer for SimEvents for commandline interface usage. " alt="" coords="628,230,764,255"/>
+<area shape="rect" id="node26" href="$d0/dc4/a00443.html" title="Definition of Observer for SimEvents for commandline interface usage. " alt="" coords="788,230,889,255"/>
+<area shape="rect" id="node27" href="$d9/d10/a00449.html" title="Definition of Observer for SimEvents for commandline interface usage. " alt="" coords="913,230,1047,255"/>
+<area shape="rect" id="node28" href="$d5/d5f/a00461.html" title="Definition of Observer for SimEvents for commandline interface usage. " alt="" coords="1071,230,1205,255"/>
+<area shape="rect" id="node29" href="$d7/d5e/a00467.html" title="Definition of Observer for SimEvents for commandline interface usage. " alt="" coords="1230,230,1372,255"/>
+<area shape="rect" id="node7" href="$d9/d39/a00257.html" title="Map.h" alt="" coords="163,305,220,330"/>
+<area shape="rect" id="node10" href="$df/da9/a00263.html" title="MapBuilder.h" alt="" coords="12,454,111,479"/>
+<area shape="rect" id="node20" href="$df/d95/a00299.html" title="SimReader.cpp" alt="" coords="245,305,357,330"/>
+<area shape="rect" id="node8" href="$d7/d03/a00254.html" title="Map.cpp" alt="" coords="206,379,279,405"/>
+<area shape="rect" id="node9" href="$d0/d39/a00314.html" title="Window.h" alt="" coords="103,379,181,405"/>
+<area shape="rect" id="node12" href="$d6/d82/a00293.html" title="QSim.h" alt="" coords="232,529,297,554"/>
+<area shape="rect" id="node19" href="$d1/d5d/a00311.html" title="Window.cpp" alt="" coords="135,454,227,479"/>
+<area shape="rect" id="node11" href="$dd/dd7/a00260.html" title="MapBuilder.cpp" alt="" coords="5,529,117,554"/>
+<area shape="rect" id="node13" href="$df/d4a/a02204.html" title="main.cpp" alt="" coords="88,603,163,629"/>
+<area shape="rect" id="node14" href="$de/d25/a00290.html" title="QSim.cpp" alt="" coords="187,603,265,629"/>
+<area shape="rect" id="node15" href="$df/d91/a00335.html" title="GuiController.cpp" alt="" coords="227,678,351,703"/>
+<area shape="rect" id="node16" href="$da/d65/a00458.html" title="MapViewer.h" alt="" coords="371,603,468,629"/>
+<area shape="rect" id="node17" href="$da/de0/a00317.html" title="Header for the command line controller. " alt="" coords="375,678,493,703"/>
+<area shape="rect" id="node18" href="$dd/d63/a00455.html" title="MapViewer.cpp" alt="" coords="519,678,631,703"/>
+<area shape="rect" id="node31" href="$d1/d09/a00077.html" title="Implementation of Infector algorithms. " alt="" coords="1599,155,1688,181"/>
+<area shape="rect" id="node32" href="$da/d2a/a00086.html" title="Header for the InfectorMap. " alt="" coords="1473,155,1575,181"/>
+</map>
