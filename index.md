@@ -47,6 +47,7 @@ Onze code bevindt zich in deze github repository:
 - [Verslag Opdracht 3](https://github.com/T7025/stride/blob/master/assignments/assignment3/report.pdf)
 - [Verslag Opdracht 4 (stochastische spreiding)](https://github.com/T7025/stride/blob/master/assignments/assignment4/tool_paper/paper.pdf)
 - [Performantie Analyse Testplan](https://github.com/T7025/stride/blob/benchmarking/assignments/performance_outline/paper.pdf)
+- [Case and performance paper](https://github.com/T7025/stride/blob/master/assignments/case_performance_paper/paper.pdf)
 
 # Travis Ci
 
