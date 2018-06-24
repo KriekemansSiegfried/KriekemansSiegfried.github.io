@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <run>
     <age_contact_matrix_file>contact_matrix_flanders_subpop.xml</age_contact_matrix_file>
-    <amount_of_populations>5</amount_of_populations>
+    <amount_of_populations>1</amount_of_populations>
     <behaviour_policy>NoBehaviour</behaviour_policy>
     <belief_policy>
         <name>NoBelief</name>
